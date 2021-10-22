@@ -34,3 +34,14 @@ build/
 /src/main/java/com/example/test2/test5.java
 !/src/main/java/com/example/test2/test5.java
 !/.gitignore
+!/.gitignore
+!/mvnw
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/src/main/java/com/example/test2/test8.java
